@@ -1,6 +1,6 @@
 /** author: geds
  *  date  : 2020-08-18
- *  link  : https://blog.nowcoder.net/n/7326bb130504437facc0ac1b9a76af8b
+ *  link  : https://blog.nowcoder.net/n/7326bb130504437facc0ac1b9a76af8b[NowCoder]
  * */
 #include <iostream>
 #include <string>
